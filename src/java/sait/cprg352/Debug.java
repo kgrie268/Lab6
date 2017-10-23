@@ -18,12 +18,12 @@ import javax.servlet.jsp.tagext.TagSupport;
  */
 public class Debug extends TagSupport {
 //
-//    private String debug;
-//    
-//
-//    public void setDebug(String debug) {
-//        this.debug = null;
-//    }
+    private String debug;
+    
+
+    public void setDebug(String debug) {
+        this.debug = null;
+    }
 
     @Override
     public int doStartTag() throws JspException {

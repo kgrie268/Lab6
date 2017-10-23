@@ -24,13 +24,7 @@
     <name>debug</name>
     <tag-class>sait.cprg352.Debug</tag-class>
     <body-content>JSP</body-content>
-    <attribute>
+    
         
-    <name>debug</name>
-    <required>false</required>
-    <rtexprvalue>true</rtexprvalue>
-    <type>string</type>
-</attribute>
-
   </tag>
 </taglib>

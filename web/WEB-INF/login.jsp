@@ -18,7 +18,7 @@
         <sait1:login/>
         ${errorMessage}
         
-        <sait:debug >
+        <sait:debug>
             Remote Host: ${pageContext.request.remoteHost}<br />
             Session ID: ${pageContext.session.id}
         </sait:debug>
